@@ -13,13 +13,14 @@ We have organized the project into three folders so you can follow along with ou
 * **Phase_1_Open_Loop/**: The basic Tinkercad simulation code and wiring diagrams.
   * `finalpotentiomenter_dc_motor_with_enc.ino` (Main code)
   * `FinalPotentiomenter DC Motor With Enco.png` (Wiring diagram)
-  * `FinalPotentiomenter DC Motor With Enco.pdf` (Documentation)
+  * `FinalPotentiomenter DC Motor With Enco.pdf` (Schematic Diagram)
+  * `EE6070_Group4 (2).pdf` (Documentation)
   * `bom.xlsx` (Bill of Materials)
 
 * **Phase_2_Closed_Loop/**: The advanced Tinkercad simulation where we built a custom PID controller.
   * `finalcopy_of_dc_motor_speed_pid1.ino` (Main code)
   * `fINALCopy of DC Motor Speed PID.png` (Wiring diagram)
-  * `fINALCopy of DC Motor Speed PID.pdf` (Documentation)
+  * `fINALCopy of DC Motor Speed PID.pdf` (Schematic Diagram)
   * `bom.xlsx` (Bill of Materials)
 
 * **Phase_3_Hardware_4WD/**: The final C++ code for the physical Arduino Mega rover, plus video demos and our group report.
