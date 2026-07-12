@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"M1",1,"45 DC Motor with Encoder"
+"U2",1," H-bridge Motor Driver"
+"P1",1,"22.1 , 2  Power Supply"
+"Rpot1",1,"250 kΩ Potentiometer"
+"S1, S2",2," Pushbutton"
+"R1, R2",2,"2.2 kΩ Resistor"
