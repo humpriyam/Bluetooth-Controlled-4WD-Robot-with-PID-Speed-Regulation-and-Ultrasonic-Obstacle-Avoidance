@@ -1,11 +1,8 @@
-# Bluetooth-Controlled-4WD-Robot-with-PID-Speed-Regulation-and-Ultrasonic-Obstacle-Avoidance
-A physical 4-wheel-drive robotic car that uses PID controllers to drive perfectly straight, controllable via Bluetooth with built-in ultrasonic obstacle avoidance. #arduino #robotics #pidController #rover #obstacleAvoidance
 
 # Building an Autonomous 4WD Rover: From Tinkercad to Real Life!
 
-Hey there! Welcome to my 4WD Rover project.
 
-This repository documents my journey of building a smart robotic car from scratch. Instead of just jumping straight into the hardware, I wanted to really understand the math and physics behind motor control. So, I split this project into three distinct phases: starting with a basic simulation, writing a custom PID controller to make it "smart," and finally building the real, physical 4-wheel-drive rover.
+This repository documents OUR journey of building a smart robotic car from scratch. Instead of just jumping straight into the hardware, I wanted to really understand the math and physics behind motor control. So, I split this project into three distinct phases: starting with a basic simulation, writing a custom PID controller to make it "smart," and finally building the real, physical 4-wheel-drive rover.
 
 Here is a breakdown of how the project evolved (and where to find the code for each step).
 
@@ -102,7 +99,7 @@ If you are running the Phase 3 hardware code, you will need to grab two awesome 
 
 To drive the car, connect to the HC-05 via any Bluetooth Serial app and send these keys:
 
-* `F` / `f`: Forward (Fast/Slow)
+* `F` / `f`: Forward ((80%)Fast/(40%)Slow)
 * `B` / `b`: Backward (Fast/Slow)
 * `L` / `R`: Tank Turn Left/Right
 * `S`: Stop everything
